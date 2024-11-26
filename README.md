@@ -1,0 +1,1 @@
+# Pycord_Info_For_My_AI
